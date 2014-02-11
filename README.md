@@ -1,3 +1,6 @@
+<p>This app utilizes the base theme provided by Jacob Klinker for EvolveSMS, in no way is this theme affiliated with Jacob Klinker.
+<p>Fee free to utilize any parts of this theme
+<p>Matt Lavieri
 # EvolveSMS Example Theme
 
 This theme is just an example of what you can do with the theme engine for evolve, the whole process is fairly straightforward.
