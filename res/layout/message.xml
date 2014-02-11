@@ -22,9 +22,11 @@ limitations under the License.
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
+
+<!--This sets the size of your image 48dp is default 0 shows no image-->
     <ImageView
-            android:layout_width="48dp"
-            android:layout_height="48dp"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:id="@+id/myPicture"
             android:scaleType="centerCrop"
             android:maxHeight="48dp"
@@ -43,9 +45,10 @@ limitations under the License.
             android:layout_toLeftOf="@+id/myPicture"
             android:id="@+id/holder">
 
+        <!--This sets the size of their image 48dp is default 0 shows no image-->
         <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
                 android:id="@+id/contactPicture"
                 android:scaleType="centerCrop"
                 android:maxHeight="48dp"

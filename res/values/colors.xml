@@ -19,29 +19,33 @@ limitations under the License.
 
     <!-- You HAVE to include the first 8 defined colors always -->
 
-    <!-- Main theme color for various parts on the screen, more of these things will be added in the future -->
-    <color name="theme_color">#FF8800</color>
+    <!-- Main theme color for various parts on the screen, more of these things will be added in the future
+     As of 2/10/2014 this includes new message color, send color, and text select color among others-->
+    <color name="theme_color">#ff002f66</color>
     
     <!-- the text color drawn on the message for the body -->
-    <color name="textColorSent">#020202</color>
-    <color name="textColorReceived">#020202</color>
+    <color name="textColorSent">#ff9f9f9f</color>
+    <color name="textColorReceived">#ffd1d1d1</color>
 
     <!-- the text color drawn on the message for the date -->
-    <color name="dateColorSent">#555555</color>
-    <color name="dateColorReceived">#555555</color>
+    <color name="dateColorSent">#fff2a300</color>
+    <color name="dateColorReceived">#ffffbf00</color>
 
     <!-- the color of the background for the drawer -->
-    <color name="drawerBackground">#ffffff</color>
+    <color name="drawerBackground">#ff000000</color>
 
     <!-- the color of the conversation drawer text -->
-    <color name="conversationTextColor">#020202</color>
+    <color name="conversationTextColor">#ffd1d1d1</color>
 
     <!-- the color of the dividers in the message list, setting to #00000000 will make them disappear -->
-    <color name="dividerColor">#02000000</color>
+    <color name="dividerColor">#ff002f66</color>
 
     <!-- the background color for the conversations, this is what shows behind the messages -->
-    <color name="backgroundColor">#dddddd</color>
+    <!-- Reminder, if the image is not transparent you will only see this color in padding-->
+    <color name="backgroundColor">#ff000000</color>
 
     <!-- include any other colors you may want to use in your layout below -->
+
+
 
 </resources>
