@@ -1,5 +1,6 @@
 <p>This app utilizes the base theme provided by Jacob Klinker for EvolveSMS, in no way is this theme affiliated with Jacob Klinker.
-Fee free to utilize any parts of this theme
+Feel free to utilize any parts of this theme
+Currently the edited images are only for hdpi, however all the required images for textfield are available.
 <p>Matt Lavieri
 <p>
 # EvolveSMS Example Theme
