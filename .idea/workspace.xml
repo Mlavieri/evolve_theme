@@ -15,22 +15,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="943e8c91-4b46-49eb-8377-bb08c4012142" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/apptheme_textfield_activated_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/apptheme_textfield_activated_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/apptheme_textfield_activated_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/apptheme_textfield_default_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/apptheme_textfield_default_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/apptheme_textfield_default_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/apptheme_textfield_disabled_focused_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/apptheme_textfield_disabled_focused_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/apptheme_textfield_disabled_focused_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/apptheme_textfield_disabled_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/apptheme_textfield_disabled_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/apptheme_textfield_disabled_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/apptheme_textfield_focused_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/apptheme_textfield_focused_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/apptheme_textfield_focused_holo_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EvolveSMS Theme Example.iws" />
@@ -97,10 +81,10 @@
     <leaf>
       <file leaf-file-name="delivered_msg_bubble_right.9.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/delivered_msg_bubble_right.9.png">
-          <provider editor-type-id="ninepatcheditor">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="images">
+          <provider editor-type-id="ninepatcheditor">
             <state />
           </provider>
         </entry>
@@ -125,20 +109,20 @@
       </file>
       <file leaf-file-name="error_msg_bubble_right.9.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/error_msg_bubble_right.9.png">
-          <provider editor-type-id="ninepatcheditor">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="images">
+          <provider editor-type-id="ninepatcheditor">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="msg_bubble_right.9.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/msg_bubble_right.9.png">
-          <provider selected="true" editor-type-id="ninepatcheditor">
+          <provider editor-type-id="images">
             <state />
           </provider>
-          <provider editor-type-id="images">
+          <provider selected="true" editor-type-id="ninepatcheditor">
             <state />
           </provider>
         </entry>
@@ -172,10 +156,10 @@
       </file>
       <file leaf-file-name="apptheme_textfield_disabled_focused_holo_dark.9.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/apptheme_textfield_disabled_focused_holo_dark.9.png">
-          <provider editor-type-id="ninepatcheditor">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="images">
+          <provider editor-type-id="ninepatcheditor">
             <state />
           </provider>
         </entry>
@@ -244,8 +228,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -350,8 +332,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EvolveSMS Theme Example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evolve_theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,6 +369,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -401,6 +404,7 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -502,6 +506,7 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="false" name="EvolveSMS Theme Example" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -521,6 +526,7 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -565,7 +571,11 @@
       <created>1392103731616</created>
       <updated>1392103731616</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" added textfield for other dpi">
+      <created>1392188065743</created>
+      <updated>1392188065743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -581,6 +591,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3371522" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3371522" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -588,7 +599,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18887262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18814056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32929516" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -631,7 +642,7 @@
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -644,7 +655,8 @@
     </option>
     <MESSAGE value="Updated Readme" />
     <MESSAGE value="Formatting of Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatting of Readme" />
+    <MESSAGE value=" added textfield for other dpi" />
+    <option name="LAST_COMMIT_MESSAGE" value=" added textfield for other dpi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -667,25 +679,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159" />
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="17" column="11" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -701,18 +709,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="57" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2159" />
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -728,18 +734,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -755,18 +759,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="29" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1904" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -809,16 +811,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/received_background_locked.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/sent_background_sending.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="2" column="24" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon.png">
@@ -852,40 +850,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/received_bubble_locked.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="603" selection-end="603" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/sent_background_delivered.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/sent_background_locked.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="17" selection-start="5284" selection-end="5284" vertical-scroll-proportion="0.90029323" vertical-offset="1801" max-vertical-offset="2210">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="17" selection-start="5284" selection-end="5284" vertical-scroll-proportion="0.90029323" vertical-offset="1801" max-vertical-offset="2210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.9551451" vertical-offset="114" max-vertical-offset="952">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.9551451" vertical-offset="114" max-vertical-offset="952" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/locked_msg_bubble_left.9.png">
@@ -930,9 +918,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/msg_bubble_right.9.png">
@@ -974,9 +960,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/message_entry_background.xml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="68" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.743007" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="25" column="68" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.743007" vertical-offset="0" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/apptheme_textfield_focused_holo_dark.9.png">
